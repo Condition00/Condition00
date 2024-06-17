@@ -1,7 +1,8 @@
+Hello Coders!
+
 - 👋 Hi, I’m @Condition00 aka Zero
-- 👀 I’m interested in App Development and Full stack Proggramming
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your brain is constantly eating itself.
