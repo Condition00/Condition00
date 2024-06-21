@@ -7,8 +7,8 @@
 Welcome to my Github page! I am Anant and I am currently pursuing my Computer Science Engineering degree at Vellore Institute of Technology - AP! I'm passionate about technology, communities, and everything in-between. I've worked a little on Android Development, Design, Arduino and Open Source. I love to learn and contribute in any and every possible way. Keep Learning!!
 
 
----
 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,15 +36,4 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
-<hr/>
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Condition00/Condition00/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
