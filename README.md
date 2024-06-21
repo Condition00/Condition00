@@ -27,7 +27,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 <div>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&theme=react&line_height=40&hide=css"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
