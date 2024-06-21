@@ -34,14 +34,14 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 ---
  </div>
  
-<div align="center"> 
-  <a href="mailto:anant.kavuru@gmail.com">
+<div> 
+  <a align="left" href="mailto:anant.kavuru@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/anant-kavuru-6848a2272/" target="_blank">
+  <a align="center" href="https://www.linkedin.com/in/anant-kavuru-6848a2272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Condition00.github.io" target="_blank">
+  <a align="right" href="https://Condition00.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
