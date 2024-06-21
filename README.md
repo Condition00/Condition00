@@ -21,7 +21,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 #
 ### 📊 Stats
 
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Condition00&show_icons=true&theme=gruvbox)
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Condition00&show_icons=true&theme=nightowl)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=nightowl&border_radius=4.5) -->
 ---
