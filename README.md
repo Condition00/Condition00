@@ -22,17 +22,10 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 ### 📊 Stats
 
 ![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Condition00&show_icons=true&theme=nightowl)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&theme=nightowl&line_height=40&hide=css"/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=nightowl&border_radius=4.5) -->
 
-<div>
-    <a href="">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&theme=nightowl&line_height=120&hide=css"/>
-    </a>
-</div
-  
-<br/>
-<hr>
 ---
 
  ### ⭐️ From [Anant aka Zero](https://github.com/Condition00) ### 
