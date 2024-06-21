@@ -43,16 +43,13 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anant-kavuru-6848a2272/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/profile/anant_kavuru">
+  <i class="fa-brands fa-hackerrank"></i></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
   &nbsp;
   &nbsp;
@@ -60,9 +57,11 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
-
+          
 </samp>
 </details>
+
+<i class="fa-brands fa-hackerrank"></i>
  <hr/>
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
