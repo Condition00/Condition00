@@ -28,7 +28,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 ---
 
- ### ⭐️ From [Anant aka Zero](https://github.com/Condition00) ### 
+ ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
 
