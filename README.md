@@ -34,7 +34,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 ---
  </div>
   
-  <a align="left" href="mailto:anant.kavuru@gmail.com">
+  <a align="center" href="mailto:anant.kavuru@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a align="center" href="https://www.linkedin.com/in/anant-kavuru-6848a2272/" target="_blank">
@@ -45,7 +45,6 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
   </a>
 
  <hr/>
----
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
