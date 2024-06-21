@@ -50,17 +50,21 @@ Current Project: <a href="">Portfolio Site</a>
   <img  alt="Java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" /></a>
   &nbsp; &nbsp;
   <a href="mailto:anant.kavuru@gmail.com">
-    <img  alt="Java" width="30px" style="padding-right:10px"  src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+    <img  alt="Java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/profile/anant_kavuru">
-  <img  alt="Java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>       
+  <img  alt="Java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" /></a>       
 </p> 
 
+
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+          
+          
           
 </samp>
 </details>
 
-<i class="fa-brands fa-hackerrank"></i>
  <hr/>
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
