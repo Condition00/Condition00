@@ -36,4 +36,15 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
+<hr/>
+
+<div align="center">
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Condition00/Condition00/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
