@@ -54,14 +54,7 @@ Current Project: <a href="">Portfolio Site</a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/profile/anant_kavuru">
   <img  alt="Java" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" /></a>       
-</p> 
-
-
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
-          
-          
-          
+</p>                     
 </samp>
 </details>
 
