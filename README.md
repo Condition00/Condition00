@@ -40,7 +40,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="">Portfolio Site</a>
+Current Project: <a href="https://github.com/Condition00/Portfolio_Project">Portfolio Site</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/anant-kavuru-6848a2272/">
