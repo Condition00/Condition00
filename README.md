@@ -1,4 +1,4 @@
-<!--# 👨‍💻 Anant Kavuru-->                    
+<!--# 👨‍💻 Anant Kavuru                    
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00"/>
 
 **`Digital Craftsman (Developer/Artist/Illustrator)`**
@@ -32,7 +32,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=nightowl&border_radius=4.5) -->
 
----
+<!---
 <details align="center">
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
@@ -64,4 +64,4 @@ Current Project: <a href="https://github.com/Condition00/Portfolio_Project">Port
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
-
+-->
