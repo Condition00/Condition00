@@ -9,6 +9,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
