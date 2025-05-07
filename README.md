@@ -45,9 +45,6 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 <!--<img align="right" top = 0 src="https://streak-stats.demolab.com?user=Condition00&theme=nightowl&border_radius=3.5"/>-->
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=nightowl&border_radius=4.5)-->
-
-<br>
-``
  <hr/>
 
 
