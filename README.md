@@ -5,7 +5,7 @@
 
 **`Digital Craftsman (Developer/Programmer/Artist/Illustrator)`**
 
-**Welcome to my Github page! I am Anant and I am currently pursuing my Computer Science Engineering degree at Vellore Institute of Technology - AP! I'm passionate about technology, communities, and everything in-between. I've worked a little on Android Development, Design, Arduino and Open Source. I love to learn and contribute in any and every possible way. Keep Learning!!!**
+<pre><code>``` Welcome to my Github page! I am Anant and I am currently pursuing my Computer Science Engineering degree at Vellore Institute of Technology - AP! I'm passionate about technology, communities, and everything in-between. I've worked a little on Android Development, Design, Arduino and Open Source. I love to learn and contribute in any and every possible way. Keep Learning!!! ``` </code></pre>
 
 
 ---
