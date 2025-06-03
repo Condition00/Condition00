@@ -1,5 +1,5 @@
 # 👨‍💻 Anant Kavuru                    
-![banner](https://github.com/user-attachments/assets/24786018-93be-4a9b-9f6e-068a601fa706)
+![White and Blue Minimalist Watercolor Background Linkedin Banner](https://github.com/user-attachments/assets/7106a67a-6cc1-4631-a8e6-b51dae9b5249)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00"/>
 
