@@ -14,7 +14,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 ### 🧰 Languages and Tools
 <br>
 
-<img align="left" alt="CSS" width="60px" style="padding-right:10px;" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img align="left" alt="CSS" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img align="left" alt="CSS" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img align="left" alt="CSS" width="60px" style="padding-right:10px;" src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white " />
 <img align="left" alt="TailwindCSS" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
