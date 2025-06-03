@@ -1,4 +1,6 @@
 # 👨‍💻 Anant Kavuru                    
+![banner](https://github.com/user-attachments/assets/24786018-93be-4a9b-9f6e-068a601fa706)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00"/>
 
 **`Digital Craftsman (Developer/Programmer/Artist/Illustrator)`**
