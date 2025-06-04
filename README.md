@@ -16,20 +16,17 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 ```javascript
 const aboutMe = {
   pronouns: "he" as const,
-  code: ["TypeScript", "JavaScript", "Python", "Java", "HTML", "CSS", "C", "C++", "Bash"],
+  code: ["TypeScript", "JavaScript", "Python", "Java", "HTML", "CSS", "Bash"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
       css: ["Tailwind CSS", "ShadCN", "Framer Motion", "SCSS"]
     },
     backEnd: {
-      python: ["Django", "Django Rest Framework"],
       js: ["Node.js", "Express"],
-      java: ["Spring Boot"],
       misc: ["Shell Scripting", "Docker", "Git", "REST APIs"]
     },
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
-    mobile: ["Android (Kotlin)", "React Native (basic)"]
+    databases: ["PostgreSQL", "MySQL"],
   },
   currentOccupation: ["B.Tech CSE undergrad @ VIT-AP", "Open to internships and collaborations"],
   challenge: "Mastering DSA in Java by the end of the year",
