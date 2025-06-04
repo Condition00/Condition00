@@ -35,7 +35,7 @@ const aboutMe = {
  <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-<img src="https://raw.githubusercontent.com/Condition00/Condition00/main/metrics.plugin.isocalendar.svg" alt="Half-Year Activity Calendar">
+![Metrics](https://metrics.lecoq.io/Condition00?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
