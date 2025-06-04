@@ -35,7 +35,7 @@ const aboutMe = {
  <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![Star History](https://api.lucabubi.me/chart?username=Condition00&repository=Healthy-Me&color=blue)](https://github.com/lucabubi/star-history)
+
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
