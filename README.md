@@ -8,7 +8,7 @@ Btech @ VIT | Artist and Singer)`**
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 About me
 
 ```javascript
 const aboutMe = {
@@ -32,11 +32,9 @@ const aboutMe = {
 ```
 
 <br>
-
  <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condition00&theme=tokyonight)
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
