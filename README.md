@@ -13,8 +13,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
 ### 🧰 Languages and Tools
 <br>
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=tokyonight&bg=%23131422&badge=%231D1E33&border=%231D1E33&titleColor=%2370A6FD&line1=react%2Ctypescript%2Cjavascript%2Ccss%2Ctailwindcss%2Cexpress%2Cpython)](https://github.com/)
-
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=tokyonight&bg=%23131422&badge=%231D1E33&border=%231D1E33&titleColor=%2370A6FD&line1=react%2Creact%2C119ee4%3Btypescript%2Ctypescript%2C0071ff%3Bjavascript%2Cjavascript%2Cfeff00%3Bcss%2Ccss%2C9a00ff%3Btailwindcss%2Ctailwind%2C0068ff%3Bexpress%2Cexpress%2Cffffff%3Bpostgresql%2Cpostgresql%2C0035ef%3Bpython%2Cpython%2C00b4ff%3Bjava%2Cjava%2Cff5722%3Bmarkdown%2Cmarkdown%2Cffffff)
 <br>
 
  <hr/>
