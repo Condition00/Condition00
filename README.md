@@ -31,7 +31,7 @@ const aboutMe = {
     databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
     mobile: ["Android (Kotlin)", "React Native (basic)"]
   },
-  currentOccupation: ["B.Tech CSE undergrad @ VIT-AP", "Building full-stack projects", "Open to internships and collaborations"],
+  currentOccupation: ["B.Tech CSE undergrad @ VIT-AP", "Open to internships and collaborations"],
   challenge: "Mastering DSA in Java by the end of the year",
 };
 
