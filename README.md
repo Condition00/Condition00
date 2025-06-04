@@ -18,7 +18,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 
  <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Condition00&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
