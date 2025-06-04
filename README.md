@@ -37,7 +37,7 @@ const aboutMe = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
- ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
+ ### ⭐️ From [Anant Kavuru](https://mohitkavuru.in) ### 
  
 ---
 
