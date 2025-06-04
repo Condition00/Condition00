@@ -35,7 +35,7 @@ const aboutMe = {
  <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
+<img src="https://raw.githubusercontent.com/Condition00/Condition00/main/metrics.plugin.isocalendar.svg" alt="Half-Year Activity Calendar">
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
 ---
