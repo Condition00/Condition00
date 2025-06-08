@@ -3,7 +3,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00"/>
 
-**`UI/UX Developer @ Vectr. | SaaS Developer | Linux Enthusiast |
+**`UI/UX Developer @ Vectr. | Full Stack Developer | Linux Enthusiast |
 Btech @ VIT | Artist and Singer)`**
 
 ---
