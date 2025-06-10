@@ -1,4 +1,4 @@
-     
+
 # ⚡ Anant Kavuru | Digital Craftsman
 
 ![Stylish Banner](https://github.com/user-attachments/assets/7106a67a-6cc1-4631-a8e6-b51dae9b5249)
@@ -52,9 +52,9 @@ const anantKavuru = {
 </div>
 
 <div align="center">
-  
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  
+
 </div>
 
 ## 🔥 Projects
@@ -100,16 +100,13 @@ When I'm not deep in code, you'll find me singing, creating art, or exploring th
 ---
 
 <div align="center">
-  
+
   ### "The only way to do great work is to love what you do." - Steve Jobs
-  
+
 </div>
 
 <div align="center">
-  
+
   ### ⭐️ From [Anant Kavuru](https://mohitkavuru.in) ⭐️
-  
+
 </div>
-
-
-
