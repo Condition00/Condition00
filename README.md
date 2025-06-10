@@ -6,9 +6,8 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00" alt="visitors"/>
 </p>
 
-  ```
+  
             ✨ Full Stack Developer | UI/UX Developer @ Vectr | Linux Enthusiast | Btech @ VIT | Artist and Singer ✨
-   ```
 
 
 
