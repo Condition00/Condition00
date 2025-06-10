@@ -1,9 +1,8 @@
 ![Stylish Banner](https://github.com/user-attachments/assets/7106a67a-6cc1-4631-a8e6-b51dae9b5249)
 
-<p align="center">
+<p align="left">
   <a href="https://mohitkavuru.in"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://linkedin.com/in/anantkavuru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/anantkavuru"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Condition00.Condition00" alt="visitors"/>
 </p>
 
