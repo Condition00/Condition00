@@ -56,7 +56,7 @@ const anantKavuru = {
 
 ## 🎯 Current Goals
 
-- 🚀 Mastering advanced UI animation techniques
+- 🚀 Mastering advanced UI animations and Backend Development
 - 💡 Contributing to open-source projects
 - 📚 Learning system design principles
 - 🔍 Exploring AI integration in web applications
