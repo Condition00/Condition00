@@ -8,7 +8,7 @@
 </p>
 
   ```
-  ✨ Full Stack Developer | UI/UX Developer @ Vectr | Linux Enthusiast | Btech @ VIT | Artist and Singer ✨
+            ✨ Full Stack Developer | UI/UX Developer @ Vectr | Linux Enthusiast | Btech @ VIT | Artist and Singer ✨
    ```
 
 
