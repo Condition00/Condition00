@@ -44,13 +44,13 @@ const anantKavuru = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Condition00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Condition00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condition00&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170px"/>
 </div>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Condition00&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,6 +75,6 @@ When I'm not deep in code, you'll find me singing, creating art, or exploring th
 
 <div align="center">
 
-  ### ⭐️ From [Anant Kavuru](https://mohitkavuru.in) ⭐️
+  ### ⭐️ [Anant Kavuru](https://mohitkavuru.in) ⭐️
 
 </div>
