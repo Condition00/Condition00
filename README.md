@@ -7,7 +7,7 @@
 </p>
 
   
-<p>✨ Full Stack Developer | UI/UX Developer @ Vectr | Linux Enthusiast | Btech @ VIT | Artist and Singer ✨</p>
+<p align="center">✨ Full Stack Developer | UI/UX Developer @ Vectr | Linux Enthusiast | Btech @ VIT | Artist and Singer ✨</p>
 
 
 
