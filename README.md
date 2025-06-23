@@ -2,7 +2,7 @@
 const anantKavuru = {
   pronouns: "he" as const,
   code: ["JavaScript", "TypeScript"],
-  architectures: ["RESTful APIs", "Component-Based Design"],
+  architectures: ["RESTful APIs", "Client-Server"],
   technologies: {
     frontEnd: {
       js: ["NextJS", "React"],
@@ -19,9 +19,9 @@ const anantKavuru = {
     deployment: ["Docker", "Vercel", "Render"]
   },
 
-  currentFocus: "Building full-stack apps with clean UI",
-  currentOccupation: ["B.Tech CSE undergrad @ VIT-AP",
-                      "UI-UX Dev @ Vectr"],
+  currentFocus: "Building clean full-stack apps",
+  currentOccupation: "UI-UX Dev @ Vectr",
+  currentEducation: "B.Tech CSE undergrad @ VIT-AP",
   challenge: "Mastering DSA",
 };
 ```
