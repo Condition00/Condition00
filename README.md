@@ -1,7 +1,5 @@
 
-## 💼 Tech Stack
-
-```javascript
+```typescript
 const anantKavuru = {
   pronouns: "he" as const,
   code: ["TypeScript", "JavaScript", "Python", "Java", "HTML", "CSS", "Bash"],
