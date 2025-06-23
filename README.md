@@ -1,28 +1,31 @@
-
 ```typescript
 const anantKavuru = {
   pronouns: "he" as const,
-  code: ["TypeScript", "JavaScript", "Python", "Java", "HTML", "CSS", "Bash"],
-  architectures: ["Microservices", "Event-Driven", "Responsive Design"],
+  code: ["JavaScript", "TypeScript"],
+  architectures: ["RESTful APIs", "Component-Based Design"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "ShadCN", "Framer Motion", "SCSS"],
-      design: ["Figma", "Adobe XD"]
+      js: ["NextJS", "React"],
+      css: ["CSS", "Tailwind CSS"],
+      design: ["Figma"]
     },
+    
     backEnd: {
-      js: ["Node.js", "Express"],
-      misc: ["Shell Scripting", "Docker", "Git", "REST APIs"]
+      js: ["ExpressJS", "Prisma"],
+      misc: ["Docker", "Git", "REST APIs"]
     },
+
     databases: ["PostgreSQL", "MySQL"],
-    deployment: ["Vercel", "Netlify", "AWS", "Digital Ocean"]
+    deployment: ["Docker", "Vercel", "Render"]
   },
-  currentFocus: "Creating intuitive user experiences that bridge art and functionality",
-  currentOccupation: ["B.Tech CSE undergrad @ VIT-AP", "Open to internships and collaborations"],
-  challenge: "Mastering DSA in Java by the end of the year",
-  funFact: "I can code with music playing and still maintain perfect focus!"
+
+  currentFocus: "Building full-stack apps with clean UI",
+  currentOccupation: ["B.Tech CSE undergrad @ VIT-AP",
+                      "UI-UX Dev @ Vectr"],
+  challenge: "Mastering DSA",
 };
 ```
+
 
 
 
