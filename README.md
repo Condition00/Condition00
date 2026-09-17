@@ -2,9 +2,6 @@
 
 [![An image of @condition00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/condition00)](https://holopin.io/@condition00)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nnnLik}/count.svg" /></p> 
-<br></div>
+Check out the pinned projects!
 
 
